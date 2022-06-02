@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: lightskyblue;
+}
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.text {
+
+    padding-left: 20px;
+    margin-top: 35px;
+}
+
+.left li h2 {
+
+    color: darkred;
+}
+
+.right li h2 {
+
+    color: darkred;
+    
+}
+
+.text a {
+
+    text-decoration: none;
+}
+
+img {
+
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+
+.text h1{
+
+    color: darkred;
+}
+.text a {
+
+    color: darkred;
+}
+
+.motto h2 {
+    margin-top: 10px;
+    text-align: center;
+    border: 3px solid darkred;
+    width: 700px;
+    margin: 80px auto;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    
+    
+}
+
+.left {
+    margin-top: -70px;
+    float: left;
+     
+}
+
+.left ul {
+
+    list-style-type: none;
+    margin-left: 50px;
+    line-height: 3.3em;
+    margin-top: 30px;
+    
+    
+    
+}
+
+.left a {
+
+    border: 3px solid darkred;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    color: black;
+    font-weight: bold;
+   
+}
+
+.right {
+
+    margin-top: -70px;
+    float: right;
+}
+
+.right ul {
+
+    list-style-type: none;
+    margin-right: 50px;
+    line-height: 3.3em;
+    margin-top: 30px;
+    
+}
+
+.right a {
+
+    border: 3px solid darkred;
+    
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    color: black;
+    font-weight: bold;
+    
+
+}
+
+
+
+
